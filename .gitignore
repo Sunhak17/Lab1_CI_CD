@@ -1,0 +1,8 @@
+node_modules/
+.yarn/
+coverage/
+.pnp.cjs
+.pnp.loader.mjs
+
+*.log
+.env
